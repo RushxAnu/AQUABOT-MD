@@ -1,6 +1,6 @@
-# AQUABOT-MD
-This project is still being tested
-<p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
+# IZUMIBOT-MD
+Deploy your own IZUMIBOT
+<p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/1ad3da6c2a0422c5739c7.jpg"/></a>
  <p align="center">
 <a href="https://github.com/sanuwaofficial/AQUABOT-MD"><img title="Followers" src="https://img.shields.io/github/followers/sanuwaofficial?e=flat-square"></a>
 <a href="https://github.com/sanuwaofficial/AQUABOT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sanuwaofficial/AQUABOT-MD?color=blue&style=flat-square"></a>
@@ -22,12 +22,6 @@ This project is still being tested
 
 ---------------------------------   
 
- ###  Developer :- Sanuwa-official 
+ ###  Developer :- Rush Official 
 
-## Thanks To
-- [@adiwajshing](https://github.com/adiwajshing/) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@yusufusta](https://github.com/yusufusta/) for coded [WhatsAsena](https://github.com/yusufusta/WhatsAsena) 
-- [@sisula](https://github.com/sisula/) & [@joka](https://github.com/MrJoka-Thejaka/) for all the helps 🤝
- 
-  
- 
+
