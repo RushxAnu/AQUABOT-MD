@@ -1,22 +1,22 @@
 {
-  "name": "Izumi-MD",
+  "name": "Aquabot-MD",
   "version": "1.0.0",
-  "description": "Izumi happy for whatsapp.",
-  "main": "/izumibot/bot.js",
+  "description": "aquabot happy for whatsapp.",
+  "main": "/aquabot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RushxAnu/IZUMIBOT-MD.git"
+    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
   },
-  "author": "Rush official",
-  "developer": "Rush",
+  "author": "sanuwa official",
+  "developer": "sanuwa",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
   },
-  "homepage": "https://github.com/RushxAnu/IZUMIBOT-MD",
+  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
   "dependencies": {
    "@adiwajshing/baileys": "^4.3.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
@@ -32,11 +32,13 @@
     "google-translate-tts": "^0.3.0",
     "cheerio": "^1.0.0-rc.10",
     "child_process": "^1.0.2",
+    "cobrabot-patch" : "^1.0.2" ,
     "crypto": "^1.0.1",
     "file-type": "^16.5.3",
     "fluent-ffmpeg": "^2.1.2",
     "fake-useragent": "^1.0.1",
     "fs": "0.0.1-security", 
+    "knights-canvas" : "^1.3.7" ,
     "pino": "^7.0.5",
     "@bochilteam/scraper" : "^2.0.0" ,
     "qrcode-terminal": "^0.12.0",
