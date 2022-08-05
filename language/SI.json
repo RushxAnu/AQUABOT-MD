@@ -1,9 +1,9 @@
 {
     "LANGUAGE": "English",
     "LANGCODE": "en",
-    "AUTHOR"  : "sanuwa official",
+    "AUTHOR"  : "Rush official",
     "STRINGS" : { 
-                  "aqua" : {   
+                  "izumi" : {   
                             "COMMAND"  : "විධානය",
                             "DESC"     : "විස්තරය",
                             "EXAMPLE"  : "උදා",
