@@ -18,7 +18,7 @@ Deploy your own IZUMIBOT
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@thejaxrush/IZUMIBOT-MD)
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sanuwaofficial/AQUABOT-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FRushxAnu%2FIZUMIBOT-MD)
 
 ---------------------------------   
 
