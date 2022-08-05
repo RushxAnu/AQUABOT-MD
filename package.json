@@ -2,21 +2,21 @@
   "name": "Izumi-MD",
   "version": "1.0.0",
   "description": "Izumi happy for whatsapp.",
-  "main": "/aquabot/bot.js",
+  "main": "/izumibot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
+    "url": "git+https://github.com/RushxAnu/IZUMIBOT-MD.git"
   },
-  "author": "sanuwa official",
-  "developer": "sanuwa",
+  "author": "Rush official",
+  "developer": "Rush",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
   },
-  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
+  "homepage": "https://github.com/RushxAnu/IZUMIBOT-MD",
   "dependencies": {
    "@adiwajshing/baileys": "^4.3.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
